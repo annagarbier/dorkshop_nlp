@@ -5,7 +5,7 @@ A 2-hour, hands-on introduction to Natural Language Processing (NLP) topics and 
 
 ## Before you come to the Dorkshop...
 ```bash
-# Install python
+# Install python3
 # Install nltk
 # Install Jupyter notebook
 ```
@@ -36,4 +36,11 @@ A 2-hour, hands-on introduction to Natural Language Processing (NLP) topics and 
 * [Computational Form: Generating Text (Justin Bakse)](http://compform.net/text/)
 
 ### Tools
-* [Markovify](https://github.com/jsvine/markovify)
+* [Natural Language Toolkit](https://www.nltk.org/) - General language processing library for Python
+* Natural - General language processing library for Javascript
+* [Tracery.js](https://www.tracery.io/) - Javascript library for writing generative context-free-grammars
+* [Markovify](https://github.com/jsvine/markovify) - Markov text generation library for Python
+* P5.speech - P5.js library for speech recognition
+
+## Projects
+* [Talk to Transformer](https://talktotransformer.com/). - Web application for running GPT2 text generator
