@@ -1,4 +1,4 @@
-# Natural Language Processing in Python
+# Natural Language Processing with Python
 
 ## Summary
 A 2-hour introduction to Natural Language Processing topics and tools for DT students interested in language and code.
