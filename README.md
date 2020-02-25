@@ -1,16 +1,12 @@
 # Natural Language Processing with Python
 
 ## Summary
-A 2-hour, hands-on introduction to Natural Language Processing (NLP) topics and tools for DT students interested in language and code.
+A 2-hour, hands-on introduction to Natural Language Processing (NLP) topics and tools. For beginners who are interested in code and language. Some programming familiarity will be helpful, but experience with Python is not required.
 
-## Who is it for? 
-Interest in code and/or language.
-
-## Tools
-Set-up
-Python
-Nltk library
-Jupyter Notebook
+## Tools we'll use
+* Python
+* Nltk library
+* Jupyter Notebook
 
 ## Schedule
 | Time | Type | Topic |
