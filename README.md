@@ -19,7 +19,7 @@ A two-hour, hands-on introduction to Natural Language Processing (NLP) topics an
 | Duration | Purpose | Format | Topic |
 | - | - | - | - |
 | 10 min | - | - | Setup |
-| 15 min | Activate | Small group work | Introduce core concepts through exercises on paper |
+| 15 min | Activate | Small group work | Solve small NLP challenges with pencil and paper |
 | 5 min | Engage | Group discussion | Share outcomes, questions, and insights |
 | 30 min | Study | Live code & discussion | Walk through example starter code: analyse a Gutenberg novel |
 | 45 min | Activate | Code | Play with the starter code, and take it somewhere new |
