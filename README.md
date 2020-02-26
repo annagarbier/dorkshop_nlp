@@ -47,5 +47,5 @@ A 2-hour, hands-on introduction to Natural Language Processing (NLP) topics and 
 * [Talk to Transformer](https://talktotransformer.com/) - Web application for running GPT2 text generator
 
 ## Projects
-* [NaNoGenMo (Based on an [idea](https://twitter.com/tinysubversions/status/396305662000775168) by Darius Kazemi)](https://nanogenmo.github.io/)
+* [NaNoGenMo](https://nanogenmo.github.io/) (Based on an [idea](https://twitter.com/tinysubversions/status/396305662000775168) by Darius Kazemi)
 * [1 the Road (Ross Goodwin](https://en.wikipedia.org/wiki/1_the_Road)
