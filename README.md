@@ -1,7 +1,7 @@
 # Natural Language Processing with Python
 
 ## Summary
-A two-hour, hands-on introduction to Natural Language Processing (NLP) topics and tools. For beginners who are interested in code and language. Some programming familiarity will be helpful, but experience with Python is not required.
+A two-hour, hands-on introduction to Natural Language Processing (NLP) topics and tools using Python. For beginners who are interested in code and language. Some programming familiarity will be helpful, but experience with Python is not required.
 
 ## Before you arrive...
 ```bash
