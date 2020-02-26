@@ -36,16 +36,13 @@ A two-hour, hands-on introduction to Natural Language Processing (NLP) topics an
 * [Computational Form: Generating Text (Justin Bakse)](http://compform.net/text/)
 
 ### Tools and libraries
-#### Python
-* [Natural Language Toolkit](https://www.nltk.org/) - General NLP library for Python
-* [Markovify](https://github.com/jsvine/markovify) - Markov text generation library for Python
-#### Javascript
-* [Natural](https://github.com/NaturalNode/natural) - General NLP library for Javascript
-* [Tracery.js](https://www.tracery.io/) - Context-free-grammar library for Javascript
-* [P5.speech](https://idmnyu.github.io/p5.js-speech/) - P5.js library for speech recognition and speech synthesis
-#### Other
-* [Talk to Transformer](https://talktotransformer.com/) - Web application for running GPT2 text generator
+* [Natural Language Toolkit](https://www.nltk.org/) - General NLP library for **Python**
+* [Markovify](https://github.com/jsvine/markovify) - Markov text generation library for **Python**
+* [Natural](https://github.com/NaturalNode/natural) - General NLP library for **Javascript**
+* [Tracery.js](https://www.tracery.io/) - Context-free-grammar library for **Javascript**
+* [P5.speech](https://idmnyu.github.io/p5.js-speech/) - **P5.js** library for speech recognition and speech synthesis
+* [Talk to Transformer](https://talktotransformer.com/) - Web application for running **GPT2** text generator
 
-## Projects
+### Projects
 * [NaNoGenMo](https://nanogenmo.github.io/) (based on an [idea](https://twitter.com/tinysubversions/status/396305662000775168) by Darius Kazemi)
 * [1 the Road (Ross Goodwin)](https://en.wikipedia.org/wiki/1_the_Road)
