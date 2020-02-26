@@ -31,16 +31,21 @@ A 2-hour, hands-on introduction to Natural Language Processing (NLP) topics and 
 * Create a fun, small text-based program using Python in Jupyter Notebook
 
 ## References for more
-### Tutorials
+### Lessons
 * [Intro to Python for Text and Data (Alison Parrish)](https://github.com/aparrish/dmep-python-intro)
 * [Computational Form: Generating Text (Justin Bakse)](http://compform.net/text/)
 
-### Tools
-* [Natural Language Toolkit](https://www.nltk.org/) - General language processing library for Python
-* Natural - General language processing library for Javascript
-* [Tracery.js](https://www.tracery.io/) - Javascript library for writing generative context-free-grammars
+### Tools and libraries
+#### Python
+* [Natural Language Toolkit](https://www.nltk.org/) - General NLP library for Python
 * [Markovify](https://github.com/jsvine/markovify) - Markov text generation library for Python
-* P5.speech - P5.js library for speech recognition
+#### Javascript
+* [Natural](https://github.com/NaturalNode/natural) - General NLP library for Javascript
+* [Tracery.js](https://www.tracery.io/) - Context-free-grammar library for Javascript
+* [P5.speech](https://idmnyu.github.io/p5.js-speech/) - P5.js library for speech recognition and speech synthesis
+#### Other
+* [Talk to Transformer](https://talktotransformer.com/) - Web application for running GPT2 text generator
 
 ## Projects
-* [Talk to Transformer](https://talktotransformer.com/). - Web application for running GPT2 text generator
+* [NaNoGenMo (Based on an [idea](https://twitter.com/tinysubversions/status/396305662000775168) by Darius Kazemi)](https://nanogenmo.github.io/)
+* [1 the Road (Ross Goodwin](https://en.wikipedia.org/wiki/1_the_Road)
