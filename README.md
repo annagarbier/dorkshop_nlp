@@ -1,9 +1,9 @@
 # Natural Language Processing with Python
 
 ## Summary
-A 2-hour, hands-on introduction to Natural Language Processing (NLP) topics and tools. For beginners who are interested in code and language. Some programming familiarity will be helpful, but experience with Python is not required.
+A two-hour, hands-on introduction to Natural Language Processing (NLP) topics and tools. For beginners who are interested in code and language. Some programming familiarity will be helpful, but experience with Python is not required.
 
-## Before you come to the Dorkshop...
+## Before you arrive...
 ```bash
 # Install python3
 # Install nltk
