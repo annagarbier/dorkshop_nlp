@@ -17,7 +17,7 @@ A two-hour, hands-on introduction to Natural Language Processing (NLP) topics an
 
 ## Schedule
 | Duration | Purpose | Format | Topic |
-| - | - | - | - |
+| :- | :- | :- | :- |
 | 10 min | - | - | Setup |
 | 15 min | Activate | Small group work | Solve small NLP challenges with pencil and paper |
 | 5 min | Engage | Group discussion | Share outcomes, questions, and insights |
