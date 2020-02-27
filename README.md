@@ -46,4 +46,4 @@ A two-hour, hands-on introduction to Natural Language Processing (NLP) topics an
 ### Projects
 * [NaNoGenMo](https://nanogenmo.github.io/) (based on an [idea](https://twitter.com/tinysubversions/status/396305662000775168) by Darius Kazemi)
 * [1 the Road (Ross Goodwin)](https://en.wikipedia.org/wiki/1_the_Road)
-* [Predictive Writer by Botnik Studio] (https://botnik.org/apps/)
+* [Predictive Writer by Botnik Studio](https://botnik.org/apps/)
