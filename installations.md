@@ -51,7 +51,7 @@ If on Mac, run the following in Terminal:
 
 ```bash
 # Install
-$ pip3 install jupyter
+$ pip install notebook
 ```
 
 <hr>
