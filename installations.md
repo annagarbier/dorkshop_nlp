@@ -12,7 +12,7 @@ Cheatsheet for installations and downloads related to the workshop. Mostly for h
 
 ## <span id="#00">Install python3</span>
 
-If on Mac, open terminal Terminal application, and run:
+If on Mac, open Terminal application, and run:
 
 ```bash
 # Install
@@ -64,7 +64,7 @@ You can read along by just navigating to the site, or you can download the repos
 
 To download, go to the link. Click the green `Download or Clone` button in the top right. Then `Download ZIP`. This will download to wherever your computer directs downloads. Find the zipped file, and unzip it. It's now a local folder on your computer.
 
-Or, if you're familiar with `git` command line tools::
+Or, if you're familiar with `git` command line tools:
 
 ```bash
 $ git clone https://github.com/annagarbier/dorkshop_nlp.git
