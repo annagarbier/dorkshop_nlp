@@ -5,18 +5,23 @@
 An beginner introduction to Natural Language Processing (NLP) topics using Python, NLTK, and Jupyter notebook.
 Presented via a two-hour Zoom video as part of Parsons Design & Technology peer-to-peer 'dorkshop' series.
 
-## Tools to install
+## Installations and setup
 
-- Install python3
-- Install nltk
-- Install Jupyter notebook
+This workshop uses the following tools:
+
+- `Python3`
+- `nltk` library
+- `Jupyter Notebook` web application
+- `GitHub`
+
+For help with installations and downloads, see [installations.md](https://github.com/annagarbier/dorkshop_nlp/blob/master/installations.md).
 
 ## Schedule
 
 1. Intro: _What is NLP? what might we do with it in DT?_
 1. `00_setup.ipynb`: _What are some Python string basics, and how do we run them in a Jupyter notebook?_
 1. `01_nltk_mini_project.ipynb`: _What is NLTK? What is a tokenizer? What is a part-of-speech tagger? How might we make something fun with these?_
-1. `03_nltk_sticker_sheet.ipynb`: _What else can we do with the NLTK library?_
+1. `02_nltk_sticker_sheet.ipynb`: _What else can we do with the NLTK library?_
 
 ## Learning outcomes
 
