@@ -7,6 +7,7 @@ Cheatsheet for installations and downloads related to the workshop. Mostly for h
 1. [Install `jupyter notebook`](#02)
 1. [Download the course materials from `GitHub`](#03)
 1. [Open the course materials using `Jupyter Notebook`](#04)
+1. [Install any nltk missing package/model](#05)
 
 <hr>
 
@@ -89,3 +90,26 @@ $ jupyter notebook
 ```
 
 This should open a new tab in your default browser. Any changes you make in the interactive browser session will automatically be saved in your local files.
+
+<hr>
+
+## <span id="05">Download missing nltk package</span>
+
+It is most likely that that specfic nltk module wasn't downloaded by default, and you will have to manually download yourself.
+
+To do that, you can open the nltk download GUI, and browse all available modules:
+
+```bash
+# run python in your terminal
+$ python
+
+# open nltk GUI 
+>>> nltk.download()
+
+# or if you have a specific module you just want to download
+>>> nltk.download('Gutenburg')
+
+# if you get a download GUI error, try to use the shell script to complete download
+# you can browse and eventually quit downloading
+>>> nltk.download_shell()
+```
